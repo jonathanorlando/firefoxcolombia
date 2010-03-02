@@ -38,9 +38,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Seleccione perfil de usuario">
+<!ENTITY windowtitle.label "&brandShortName; - Seleccione perfil de usuario por favor">
 
-<!ENTITY profilename.label "Nombre de perfil:">
+<!ENTITY profilename.label "Nombre del perfil:">
 
 <!ENTITY start.label "Iniciar &brandShortName;">
 <!ENTITY exit.label "Salir">
@@ -49,9 +49,9 @@
 
 <!ENTITY newButton.label "Crear perfil...">
 <!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "Renombrar perfil...">
+<!ENTITY renameButton.label "Renombrar este perfil...">
 <!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Borrar perfil...">
+<!ENTITY deleteButton.label "Borrar este perfil...">
 <!ENTITY deleteButton.accesskey "B">
 
 <!-- manager entities -->

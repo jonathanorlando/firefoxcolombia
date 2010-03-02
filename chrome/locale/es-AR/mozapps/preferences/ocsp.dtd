@@ -9,6 +9,6 @@
 <!ENTITY serviceURL.accesskey "s">
 <!ENTITY signingCA.label "Firmante de respuesta:">
 <!ENTITY signingCA.accesskey "r">
-<!ENTITY requireOCSP.label            "Cuando falla la conexión a un servidor OCSP, tratar el certificado como no válido">
+<!ENTITY requireOCSP.label            "Cuando falla la conexión a un servidor OCSP, se debe tratar el certificado como no válido">
 <!ENTITY requireOCSP.accesskey        "x">
 

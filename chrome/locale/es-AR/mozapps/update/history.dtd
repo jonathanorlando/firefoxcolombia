@@ -3,9 +3,9 @@
 <!ENTITY history.intro "Las siguientes actualizaciones han sido instaladas:">
 <!ENTITY closebutton.label "Cerrar">
 
-<!ENTITY noupdates.label "Aún no se han instalado actualizaciones">
+<!ENTITY noupdates.label "Aún no se han procedido a instalar actualizaciones">
 
-<!ENTITY name.header "Nombre de actualización">
-<!ENTITY date.header "Fecha de instalación">
+<!ENTITY name.header "Nombre de la actualización">
+<!ENTITY date.header "Fecha de la instalación">
 <!ENTITY type.header "Tipo">
 <!ENTITY state.header "Estado">

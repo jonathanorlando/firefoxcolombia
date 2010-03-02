@@ -1,6 +1,6 @@
-<!ENTITY removePassword.title              "Remover Contraseña Maestra">
-<!ENTITY removeInfo.label                  "Debe ingresar su contraseña actual para continuar:">
-<!ENTITY removeWarning1.label              "Su contraseña maestra se usa para proteger información sensitiva como sus contraseñas.">
-<!ENTITY removeWarning2.label              "Si remueve la Contraseña Maestra su información no estará protegida si su computadora está en riesgo.">
-<!ENTITY setPassword.oldPassword.label     "Contraseña actual:">
+<!ENTITY removePassword.title              "Remover mi Contraseña Maestra">
+<!ENTITY removeInfo.label                  "Debes ingresar tu contraseña actual para continuar:">
+<!ENTITY removeWarning1.label              "Tu contraseña maestra se usa para proteger la información sensitiva como sus contraseñas.">
+<!ENTITY removeWarning2.label              "Si remueves la Contraseña Maestra su información no estará protegida si su computadora está en riesgo.">
+<!ENTITY setPassword.oldPassword.label     "Mi Contraseña actual:">
 
