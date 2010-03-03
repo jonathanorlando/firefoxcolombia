@@ -11,6 +11,6 @@
 <!ENTITY findCloseButton.tooltip "Cerrar la barra de búsqueda">
 <!ENTITY highlight.label "Resaltar todo">
 <!ENTITY highlight.accesskey "R">
-<!ENTITY highlight.tooltiptext "Resaltar todas las apariciones de la frase">
+<!ENTITY highlight.tooltiptext "Resaltar todas las apariciones de la frase por favor">
 <!ENTITY caseSensitiveCheckbox.label "Coincidir mayúsculas">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">

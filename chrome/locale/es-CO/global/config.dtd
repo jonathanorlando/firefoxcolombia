@@ -39,8 +39,8 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "¡Ésto puede cancelar su garantía!">
-<!ENTITY aboutWarningText.label "Cambiar los valores por defecto de estas opciones avanzadas puede ser dañino para la estabilidad, seguridad y rendimiento de esta aplicación. Solamente debería continuar si está seguro de lo que está haciendo.">
-<!ENTITY aboutWarningButton.label "¡Seré cuidadoso, lo prometo!">
+<!ENTITY aboutWarningText.label "Cambiar los valores por defecto de estas opciones avanzadas puede ser dañino para la estabilidad, seguridad y rendimiento de esta aplicación. Solamente deberias continuar si estas seguro de lo que estas haciendo.">
+<!ENTITY aboutWarningButton.label "¡Seré muy cuidadoso, lo prometo!">
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 
 <!ENTITY filterPrefs.label "Filtro:">
