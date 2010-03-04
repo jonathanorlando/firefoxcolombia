@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title "Administrador de certificados">
+<!ENTITY certmgr.title "Administrador de mis certificados">
 
-<!ENTITY certmgr.tab.mine "Sus certificados">
+<!ENTITY certmgr.tab.mine "Mis certificados">
 <!ENTITY certmgr.tab.others2                  "Personas">
 <!ENTITY certmgr.tab.websites3                "Servidores">
 <!ENTITY certmgr.tab.ca "Autoridades">
@@ -46,11 +46,11 @@
 <!ENTITY certmgr.ca.builtins "CAs integrados">
 <!ENTITY certmgr.ca.mycas "CAs administrados por usted">
 
-<!ENTITY certmgr.mine "Usted tiene certificados de estas organizaciones que lo identifican">
-<!ENTITY certmgr.others "Usted tiene certificados que identifican a las siguientes personas:">
-<!ENTITY certmgr.websites2                    "Usted tiene certificados en archivo que identifican estos servidores:">
-<!ENTITY certmgr.cas "Usted tiene certificados que identifican a las siguientes autoridades:">
-<!ENTITY certmgr.orphans                      "Tiene certificados en archivo que no entran en las otras categorías:">
+<!ENTITY certmgr.mine "Tienes certificados de estas organizaciones que lo identifican">
+<!ENTITY certmgr.others "Tienes certificados que identifican a las siguientes personas:">
+<!ENTITY certmgr.websites2                    "Tienes certificados en archivo que identifican estos servidores:">
+<!ENTITY certmgr.cas "Tienes certificados que identifican a las siguientes autoridades:">
+<!ENTITY certmgr.orphans                      "Tienes certificados en archivo que no entran en las otras categorías:">
 
 <!ENTITY certmgr.detail.general_tab.title "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -89,8 +89,8 @@
 <!ENTITY certmgr.deletecert.beforename "Ha pedido eliminar este certificado:">
 <!ENTITY certmgr.deletecert.aftername "¿Está seguro de querer eliminar este certificado?">
 <!ENTITY certmgr.deleteusercert.title "Eliminar su certificado">
-<!ENTITY certmgr.deleteusercert.beforename "Ha solicitado eliminar el certificado">
-<!ENTITY certmgr.deleteusercert.aftername "Una vez eliminado este certificado, no podrá leer mensajes que han sido cifrados usando este certificado.">
+<!ENTITY certmgr.deleteusercert.beforename "Has solicitado eliminar el certificado">
+<!ENTITY certmgr.deleteusercert.aftername "Una vez eliminado este certificado, no podras leer mensajes que han sido cifrados usando este certificado.">
 
 <!ENTITY certmgr.certname "Nombre del certificado">
 <!ENTITY certmgr.certserver                   "Servidor">
