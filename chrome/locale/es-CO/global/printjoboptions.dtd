@@ -1,8 +1,8 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Propiedades de impresora">
+<!ENTITY printJobOptions.title "Propiedades de la impresora">
 
-<!ENTITY paperInput.label "Tamaño de papel:">
+<!ENTITY paperInput.label "Tamaño del papel:">
 <!ENTITY paperInput.accesskey "P">
 
 <!ENTITY plexInput.label "Modo plex:">

@@ -13,7 +13,7 @@
 
 <!ENTITY spellAddToDictionary.label "Agregar al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "g">
-<!ENTITY spellCheckEnable.label "Comprobar ortografía">
+<!ENTITY spellCheckEnable.label "Comprobar la ortografía">
 <!ENTITY spellCheckEnable.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias)">
 <!ENTITY spellDictionaries.label "Idiomas">

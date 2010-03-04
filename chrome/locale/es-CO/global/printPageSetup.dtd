@@ -1,6 +1,6 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "Configuración de página">
+<!ENTITY printSetup.title "Configuración de la página">
 
 <!ENTITY basic.tab "Formato y opciones">
 
@@ -59,4 +59,4 @@
 <!ENTITY hfCustom "Personalizar…">
 
 <!ENTITY customPrompt.title "Personalizar…">
-<!ENTITY customPrompt.prompt "Ingrese su texto personalizado para encabezado/pie">
+<!ENTITY customPrompt.prompt "Ingresa tu texto personalizado para encabezado/pie">

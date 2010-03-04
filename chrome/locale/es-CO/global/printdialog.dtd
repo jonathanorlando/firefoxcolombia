@@ -12,10 +12,10 @@
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Descripción de la Impresora:">
 <!ENTITY printer.label "Impresora">
-<!ENTITY printerInput.label "Nombre de la impresora:">
+<!ENTITY printerInput.label "Nombre de mi impresora:">
 <!ENTITY printerInput.accesskey "m">
 
-<!ENTITY printrangeGroup.label "Rango de Impresión">
+<!ENTITY printrangeGroup.label "Rango de mi Impresión">
 <!ENTITY allpagesRadio.label "Todas las Páginas">
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label "Páginas ">
