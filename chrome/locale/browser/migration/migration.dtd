@@ -1,5 +1,5 @@
 
-<!ENTITY migrationWizard.title "Asistente de importación">
+<!ENTITY migrationWizard.title "Este es el Asistente de importación">
 
 <!ENTITY importFrom.label "Importar opciones, marcadores, historial, contraseñas y otros datos de:">
 <!ENTITY importFromUnix.label "Importar preferencias, marcadores, historial, contraseñas y otros datos de:">
@@ -34,7 +34,7 @@
 <!ENTITY importFromHTMLFile.label       "Desde un archivo HTML">
 <!ENTITY importFromHTMLFile.accesskey   "H">
 
-<!ENTITY noMigrationSources.label "No se encontraron programas que contengan marcadores, historial o datos de contraseña.">
+<!ENTITY noMigrationSources.label "No se han encontrado programas que contengan marcadores, historial o datos de contraseña.">
 
 <!ENTITY importSource.title "Importar opciones y datos de">
 <!ENTITY importItems.title "Items a importar">
