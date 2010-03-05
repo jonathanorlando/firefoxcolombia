@@ -8,19 +8,19 @@
 <!ENTITY safeb.palm.message.p2.linkText "como lo protege &brandShortName;">
 <!ENTITY safeb.palm.message.p2.end " de ataques de phishing.">
 
-<!ENTITY safeb.palm.accept.label "¡Sáquenme de aquí!">
+<!ENTITY safeb.palm.accept.label "¡Salirme por favor de aquí!">
 <!ENTITY safeb.palm.accept.statustext "Navegar a mi página de inicio">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.decline.statustext "Cerrar advertencia">
 <!ENTITY safeb.palm.notforgery.label2 "Este sitio no es falso…">
-<!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
+<!ENTITY safeb.palm.reportPage.label "¿Por qué ha sido bloqueada esta página?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página informada como ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "La página web en <span id='malware_sitename'/> ha sido informada como una página de ataque y ha sido bloqueada según sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p><p>Algunas páginas de ataque intencionalmente distribuyen software dañino, pero muchos están comprometidos sin el conocimiento o permiso de sus dueños.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "¡Fraude web informado!">
+<!ENTITY safeb.blocked.phishingPage.title "¡Fraude web informado satisfactoriamente!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Esta página web en <span id='phishing_sitename'/> ha sido informada como fraudulenta y ha sido bloqueada según sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Los fraudes web están diseñados para engañarlo para que revele información personal o financiera imitando fuentes en las que confía.</p><p>Ingresar cualquier información en esta página web puede resultar en robo de identidad o algún otro fraude.</p>">
