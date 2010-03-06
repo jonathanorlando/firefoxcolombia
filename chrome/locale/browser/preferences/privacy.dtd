@@ -41,7 +41,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Quizás desee ">
+<!ENTITY  rememberActions.pre.label           "Quizás deseas ">
 <!ENTITY  rememberActions.clearHistory.label  "eliminar el historial reciente">
 <!ENTITY  rememberActions.middle.label        " o ">
 <!ENTITY  rememberActions.removeCookies.label "eliminar determinadas cookies">
@@ -51,7 +51,7 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Quizás también desee ">
+<!ENTITY  dontrememberActions.pre.label          "Quizás también deseas ">
 <!ENTITY  dontrememberActions.clearHistory.label "eliminar el historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 

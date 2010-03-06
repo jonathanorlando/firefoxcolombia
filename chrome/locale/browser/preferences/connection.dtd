@@ -8,7 +8,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar configuración de proxy del sistema">
 <!ENTITY  systemTypeRadio.accesskey     "y">
-<!ENTITY  WPADTypeRadio.label           "Autodetectar la configuración de proxy para esta red">
+<!ENTITY  WPADTypeRadio.label           "Autodetectar la configuración de proxy para mi red">
 <!ENTITY  WPADTypeRadio.accesskey       "y">
 <!ENTITY  manualTypeRadio.label         "Configuración manual de proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
@@ -40,5 +40,5 @@
 <!ENTITY  noproxy.label                 "Sin proxy para:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Ejemplo: .mozilla.org, .net.ar, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Usar el mismo proxy para todos los protocolos">
+<!ENTITY  shareproxy.label              "Usar el mismo proxy para todos los protocolos por favor">
 <!ENTITY  shareproxy.accesskey          "x">

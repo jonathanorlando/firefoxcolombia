@@ -32,6 +32,6 @@
 
 
 <!ENTITY languages.label              "Idiomas">
-<!ENTITY chooseLanguage.label            "Seleccione su idioma preferido para mostrar las páginas">
+<!ENTITY chooseLanguage.label            "Selecciona tu idioma preferido para mostrar las páginas por favor">
 <!ENTITY chooseButton.label              "Seleccionar...">
 <!ENTITY chooseButton.accesskey          "o"> 
