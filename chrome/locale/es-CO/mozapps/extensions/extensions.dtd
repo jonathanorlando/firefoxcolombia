@@ -126,7 +126,7 @@
 <!ENTITY getPlugins.label "Obtener mas plugins">
 
 <!ENTITY searchAddons.label               "Buscar todos los complementos">
-<!ENTITY browseAddons.label               "Revisar todos los complementos>
+<!ENTITY browseAddons.label               "Revisar todos los complementos">
 <!ENTITY searchFailed.label               "&brandShortName; no sa ha pudido recuperar complementos">
 <!ENTITY recommendedHeader.label          "Recomendado">
 <!ENTITY recommendedThrobber.label        "Recuperando complementos recomendados">
