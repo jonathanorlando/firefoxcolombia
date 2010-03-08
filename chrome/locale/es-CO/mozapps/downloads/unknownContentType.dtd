@@ -22,4 +22,4 @@
 <!ENTITY chooseHandler.label "Examinar...">
 <!ENTITY chooseHandler.accesskey "x">
 
-<!ENTITY unknownPromptText.label "¿Desea guardar este archivo en tu computadora?">
+<!ENTITY unknownPromptText.label "¿Deseas guardar este archivo en tu computadora por favor?">

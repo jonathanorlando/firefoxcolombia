@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "500">
 <!ENTITY window.height "300">
 
-<!ENTITY starting.label "Iniciando…">
-<!ENTITY scanning.label                   "Analizando en busqueda de virus…">
+<!ENTITY starting.label "Comenzando…">
+<!ENTITY scanning.label                   "Comprobando en busqueda de virus…">
 
 <!ENTITY downloads.title "Descargas">
 
@@ -35,7 +35,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
 <!ENTITY cmd.clearList.label              "Limpiar mi panel de descarga">
-<!ENTITY cmd.clearList.tooltip "Elimina descargas completas, canceladas o falladas de la lista">
+<!ENTITY cmd.clearList.tooltip "Suprimir descargas completas, canceladas o falladas de la lista">
 <!ENTITY cmd.clearList.accesskey "a">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
