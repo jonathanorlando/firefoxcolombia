@@ -4,7 +4,7 @@
 <!ENTITY offline.description "&brandShortName; necesitas conectarte para ver si hay actualizaciones 
                                            disponibles para sus complementos para hacerlos compatibles con esta
                                            versión.">
-<!ENTITY offline.toggleOffline.label "Conectarse ahora por favor.">
+<!ENTITY offline.toggleOffline.label "Conectarte ahora por favor.">
 <!ENTITY offline.toggleOffline.accesskey "C">
 
 <!ENTITY mismatch.win.title "Complementos incompatibles">
@@ -18,7 +18,7 @@
 <!ENTITY checking.status "Ésto puede tomar unos pocos minutos por favor espera...">
 
 <!ENTITY found.wizard.title "Complementos compatibles encontrados">
-<!ENTITY found.top.label "Seleccione los complementos que desea instalar por favor:">
+<!ENTITY found.top.label "Selecciona los complementos que deseas instalar por favor:">
 <!ENTITY found.disabledXPinstall.label "Estas actualizaciones no pueden instalarse porque la instalación de software está actualmente
                                            desactivada. Puedes cambiar esta opción debajo.">
 <!ENTITY found.enableXPInstall.label "Permitir que los sitios web instalen software">
@@ -31,7 +31,7 @@
 <!ENTITY noupdates.intro.desc "&brandShortName; no pudo encontrar actualizaciones para sus
                                            complementos incompatibles.">
 <!ENTITY noupdates.error.desc "Se han detectado problemas al intentar encontrar actualizaciones.">
-<!ENTITY noupdates.checkEnabled.desc "&brandShortName; verificará periódicamente y le informará
+<!ENTITY noupdates.checkEnabled.desc "&brandShortName; verificará periódicamente y te informará
                                            cuando se encuentren actualizaciones compatibles para estos complementos.">
 
 <!ENTITY finished.wizard.title "Complementos compatibles instalados satisfactoriamente">
@@ -44,7 +44,7 @@
 <!ENTITY adminDisabled.wizard.title "No se pueden buscar actualizaciones">
 <!ENTITY adminDisabled.warning.label "No se pueden buscar actualizaciones para complementos incompatibles
                                            porque la instalación de software para &brandShortName; ha sido desactivada.
-                                           Contacte con su administrador de sistemas para obtener asistencia.">
+                                           Contacta con tu administrador de sistemas para obtener asistencia.">
 
 <!ENTITY versioninfo.wizard.title "Verificando compatibilidad de complementos">
 <!ENTITY versioninfo.top.label "Verificando la compatilibildad de los complementos con esta

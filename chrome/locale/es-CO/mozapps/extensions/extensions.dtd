@@ -9,7 +9,7 @@
 <!ENTITY cmd.close.commandKey "w">
 
 <!-- View labels -->
-<!ENTITY search.label                     "Agregar mas complementos">
+<!ENTITY search.label                     "Aniadir mas complementos">
 <!ENTITY extensions.label "Extensiones">
 <!ENTITY themes.label "Temas">
 <!ENTITY locales.label "Idiomas">

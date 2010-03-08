@@ -1,9 +1,9 @@
-<!ENTITY blocklist.title             "Los agregados pueden estar causando problemas">
+<!ENTITY blocklist.title             "Los complementos pueden estar causando problemas">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; ha determinado que los siguientes complementos causan problemas de estabilidad o seguridad:">
-<!ENTITY blocklist.softblocked       "Para su protección, se te recomienda que al reiniciar tengas estos agregados deshabilitados.">
-<!ENTITY blocklist.hardblocked       "Estos complementos podrian causar un riesgo dentro de sistema, pueden casuar alarma de seguridad y han sido deshabilitado, pero requieren que reinicies para que dejen de funcionar.">
-<!ENTITY blocklist.softandhard       "Los complementos que generan un alto riego para tu sistema de seguridad han sido bloqueados. Los demas no generan tanto riego, pero es recomendable que reinicies con ellos deshabilitados.">
+<!ENTITY blocklist.summary           "&brandShortName; has determinado que los siguientes complementos causan problemas de estabilidad o seguridad:">
+<!ENTITY blocklist.softblocked       "Para tu protección, se te recomienda que al reiniciar tengas estos complementos desactivados.">
+<!ENTITY blocklist.hardblocked       "Estos complementos podrian causar un riesgo dentro de sistema, pueden causar alarma de seguridad y han sido desactivados, pero requieren que reinicies para que dejen de funcionar.">
+<!ENTITY blocklist.softandhard       "Los complementos que generan un alto riesgo para tu sistema de seguridad han sido bloqueados. Los demas no generan tanto riego, pero es recomendable que reinicies con ellos desactivados por favor.">
 <!ENTITY blocklist.moreinfo          "Más información">
 
 <!ENTITY blocklist.accept.label      "Reiniciar &brandShortName;">
