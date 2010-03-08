@@ -9,7 +9,7 @@
 <!ENTITY cmd.close.commandKey "w">
 
 <!-- View labels -->
-<!ENTITY search.label                     "Aniadir mas complementos">
+<!ENTITY search.label                     "Agregar mas complementos">
 <!ENTITY extensions.label "Extensiones">
 <!ENTITY themes.label "Temas">
 <!ENTITY locales.label "Idiomas">
@@ -29,7 +29,7 @@
 <!ENTITY cmd.installFileTheme.tooltip "Instalar un tema">
 <!ENTITY cmd.installUpdatesAll2.label     "Instalar mis actualizaciones">
 <!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Instalar las actualizaciones que se han  seleccionado">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Instalar las actualizaciones que se han seleccionado">
 <!ENTITY cmd.restartApp2.label "Reiniciar &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "Reiniciar &brandShortName; para que resulten los cambios">
