@@ -2,8 +2,8 @@
 <!ENTITY setPassword.tokenName.label       "Dispositivo de seguridad">
 <!ENTITY setPassword.oldPassword.label     "Mi contraseña actual:">
 <!ENTITY setPassword.newPassword.label     "Ingresa por favor una nueva contraseña:">
-<!ENTITY setPassword.reenterPassword.label "Reingrese su contraseña:">
+<!ENTITY setPassword.reenterPassword.label "Reingresa tu contraseña:">
 <!ENTITY setPassword.meter.label           "Medidor de calidad de la contraseña">
 <!ENTITY setPassword.meter.loading         "Cargando">
-<!ENTITY masterPasswordDescription.label   "Una contraseña maestra se usa para proteger información sensitiva como contraseñas de acceso. Si crea una contraseña maestra, se le pedirá que la ingrese una vez por sesión cuando &brandShortName; recupere la información guardada y protegida por contraseña.">
+<!ENTITY masterPasswordDescription.label   "Una contraseña maestra se usa para proteger información sensitiva como contraseñas de acceso. Si creas una contraseña maestra, se te pedirá que la ingreses una vez por sesión cuando &brandShortName; recupere la información guardada y protegida por contraseña.">
 <!ENTITY masterPasswordWarning.label       "Asegúrate de recordar la contraseña maestra que has ingresado. Si por algo la olvidas, no podras volver a acceder a la información que está protegiendo.">
