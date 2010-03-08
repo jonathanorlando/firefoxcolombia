@@ -38,7 +38,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Seleccione perfil de usuario por favor">
+<!ENTITY windowtitle.label "&brandShortName; - Selecciona perfil de usuario por favor">
 
 <!ENTITY profilename.label "Nombre del perfil:">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY availprofiles.label "Perfiles disponibles">
 
-<!ENTITY newButton.label "Crear perfil...">
+<!ENTITY newButton.label "Crear  un perfil...">
 <!ENTITY newButton.accesskey "C">
 <!ENTITY renameButton.label "Renombrar este perfil...">
 <!ENTITY renameButton.accesskey "R">

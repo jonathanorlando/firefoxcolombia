@@ -2,18 +2,18 @@
 <!ENTITY window.size "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
-<!ENTITY profileCreationExplanation_1.text "&brandShortName; guarda información acerca de sus opciones y preferencias en su perfil personal.">
-<!ENTITY profileCreationExplanation_2.text "Si está compartiendo esta copia de  &brandShortName; con otros usuarios, puede usar perfiles para mantener separada la información de cada usuario. Para realizar esto, cada usuario debería crear su propio perfil.">
+<!ENTITY profileCreationExplanation_1.text "&brandShortName; guarda información acerca de tus opciones y preferencias en tu perfil personal.">
+<!ENTITY profileCreationExplanation_2.text "Si estas compartiendo esta copia de  &brandShortName; con otros usuarios, puedes usar perfiles para mantener separada la información de cada usuario. Para realizar esto, cada usuario debería crear su propio perfil.">
 <!ENTITY profileCreationExplanation_3.text "Si eres la única persona que usa &brandShortName;, debes tener al menos un perfil. Si lo deseas, puedes crear múltiples perfiles para guardar diferentes configuraciones y preferencias. Por ejemplo, puedes desear perfiles separados para uso comercial y personal.">
-<!ENTITY profileCreationExplanation_4.text "Para comenzar a crear su perfil, haga clic en Siguiente por favor.">
-<!ENTITY profileCreationExplanation_4Mac.text "Para comenzar a crear su perfil, haga clic en Continuar por favor.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Para comenzar a crear su perfil, haga clic en Siguiente por favor.">
+<!ENTITY profileCreationExplanation_4.text "Para comenzar a crear tu perfil, haga clic en Siguiente por favor.">
+<!ENTITY profileCreationExplanation_4Mac.text "Para comenzar a crear tu perfil, haga clic en Continuar por favor.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Para comenzar a crear tu perfil, haga clic en Siguiente por favor.">
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text "Si deseas crear varios perfiles puedes separarlos por sus nombres. Puedes usar el nombre provisto aquí o usar uno propio.">
-<!ENTITY profilePrompt.label "Ingresa nuevo nombre de perfil por favor:">
+<!ENTITY profilePrompt.label "Ingresa un nuevo nombre de perfil por favor:">
 <!ENTITY profilePrompt.accesskey "e">
-<!ENTITY profileDirectoryExplanation.text   "Sus opciones de usuario, preferencias, marcadores y otros datos de usuario se guardarán en:">
+<!ENTITY profileDirectoryExplanation.text   "Tus opciones de usuario, preferencias, marcadores y otros datos de usuario se guardarán en:">
 <!ENTITY profileDefaultName "Usuario por defecto">
 <!ENTITY button.choosefolder.label "Seleccionar carpeta...">
 <!ENTITY button.choosefolder.accesskey "c">
