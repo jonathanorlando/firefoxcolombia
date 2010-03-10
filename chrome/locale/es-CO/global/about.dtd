@@ -1,7 +1,7 @@
 <!ENTITY about.version                "versión">
 
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
-<!ENTITY about.credits.beforeLink     "Vea una lista de los ">
+<!ENTITY about.credits.beforeLink     "Observa una lista de los ">
 <!ENTITY about.credits.linkTitle      "contribuyentes">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.credits.afterLink      " al Proyecto Mozilla.">
@@ -15,7 +15,7 @@
 <!ENTITY about.relnotes.linkTitle     "notas de la versión">
 <!ENTITY about.relnotes.afterLink     "para esta versión.">
 
-<!ENTITY about.buildconfig.beforeLink "Vea la">
+<!ENTITY about.buildconfig.beforeLink "Observa la">
 <!ENTITY about.buildconfig.linkTitle  "configuración de compilación">
 <!ENTITY about.buildconfig.afterLink  "usada para esta versión.">
 

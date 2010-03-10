@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problema cargando la página">
-<!ENTITY retry.label "Intente nuevamente">
+<!ENTITY retry.label "Intenta nuevamente">
 
 <!-- Specific error messages -->
 
@@ -15,12 +15,12 @@
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Verifique si la dirección no tiene errores de tipeo como
+  <li>Verifica si la dirección no tiene errores de escritura como
     <strong>ww</strong>.ejemplo.com en lugar de
     <strong>www</strong>.ejemplo.com</li>
-  <li>Si no puede cargar ninguna página, verifique la conexión a la red de su
+  <li>Si no puedes cargar ninguna página, verifica la conexión a la red de tu
     computadora.</li>
-  <li>Si su computadora o red está protegida por un firewall o proxy, asegúrese
+  <li>Si tu computadora o red está protegida por un firewall o proxy, asegurate
     que &brandShortName; tenga permiso de acceder a la Web.</li>
 </ul>
 ">
@@ -28,15 +28,15 @@
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Verifique el nombre de archivo por errores de mayúsculas o de tipeo.</li>
-  <li>Fíjese si el archivo fue movido, renombrado o borrado.</li>
+  <li>Verifica el nombre de archivo por errores de mayúsculas o de escritura.</li>
+  <li>Fijate si el archivo fue movido, renombrado o borrado.</li>
 </ul>
 ">
 
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; no puede cargar esta página por alguna razón.</p>
+<p>&brandShortName; no se puede cargar esta página por alguna razón.</p>
 ">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
@@ -44,7 +44,7 @@
 <ul>
   <li>Las direcciones web usualmente son escritas como 
     <strong>http://www.ejemplo.com/</strong></li>
-  <li>Asegúrese de estar usando las barras correctas (ej.
+  <li>Asegurate de estar usando las barras correctas (ej.
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -55,25 +55,25 @@
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Desmarque &quot;Trabajar sin conexión&quot; en el menú Archivo e intente nuevamente.</li>
+  <li>Desmarca &quot;Trabajar sin conexión&quot; en el menú Archivo e intente nuevamente.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Contacte a los duenos del sitio web para informarles sobre este problema.</li>
+  <li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Contacte a los dueños del sitio web para informarles de este problema.</li>
+  <li>Contacta a los propietarios del sitio web para informarles de este problema.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "La conexión fue restablecida">
+<!ENTITY netReset.title "La conexión fue restablecida :D">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "La conexión tardó demasiado tiempo">
@@ -82,15 +82,15 @@
 <!ENTITY protocolNotFound.title "La dirección no fue comprendida">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Necesita instalar otro software para abrir esta dirección.</li>
+  <li>Necesitas instalar otro software para abrir esta dirección.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Verifique las opciones de proxy para confirmar que están correctas.</li>
-  <li>Contacte a su administrador de red para asegurarse que el servidor proxy está
+  <li>Verifica las opciones de proxy para confirmar que están correctas.</li>
+  <li>Contacta a tu administrador de red para asegurarse que el servidor proxy está
     funcionando.</li>
 </ul>
 ">
@@ -98,9 +98,9 @@
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Verifique las opciones de proxy para confirmar que están correctas.</li>
-  <li>Asegúrese que su computadora tenga una conexión de red en funcionamiento.</li>
-  <li>Si su computadora o red están protegidas por un firewall o proxy, asegúrese
+  <li>Verifica las opciones de proxy para confirmar que están correctas.</li>
+  <li>Asegurate que tu computadora tenga una conexión de red en funcionamiento.</li>
+  <li>Si tu computadora o red están protegidas por un firewall o proxy, asegurate
     que &brandShortName; tenga permiso de acceder a la Web.</li>
 </ul>
 ">
@@ -116,25 +116,25 @@
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Verifique que su sistema tenga instalado el Personal Security Manager.</li>
+  <li>Verifica que tu sistema tenga instalado el Personal Security Manager.</li>
   <li>Ésto puede deberse a una configuración no estándar del servidor.</li>
 </ul>
 ">
 
 
-<!ENTITY nssFailure2.title "Fallo en conexión segura">
+<!ENTITY nssFailure2.title "Fallo en conexión segura!">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>La página que está tratando de ver no puede mostrarse porque la autenticidad de los datos recibidos no puede verificarse.</li>
-  <li>Contacte a los dueños del sitio para informarles de este problema. Alternativamente, use el comando encontrado en el menú de ayuda para informar sobre el sitio roto.</li>
+  <li>La página que estas tratando de ver no puede mostrarse porque la autenticidad de los datos recibidos no puede verificarse.</li>
+  <li>Contacta a los propietarios del sitio para informarles de este problema. Alternativamente, usa el comando encontrado en el menú de ayuda para informar sobre el sitio roto.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Fallo en conexión segura">
+<!ENTITY nssBadCert.title "Fallo en conexión segura!">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Ésto podría ser un problema con la configuración del servidor o podría ser
-aguien tratando de hacerse pasar por el servidor.</li>
+alguien tratando de hacerse pasar por el servidor.</li>
   <li>Si se ha conectado a este servidor exitosamente en el pasado, el error puede
 ser temporal y puede inentarlo nuevamente más tarde.</li>
 </ul>
@@ -142,11 +142,11 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>El sitio puede no estar disponible temporariamente o estar sobrecargado. Intente nuevamente en unos
+  <li>El sitio puede no estar disponible temporariamente o estar sobrecargado. Intenta nuevamente en unos
     momentos.</li>
-  <li>Si no puede cargar ninguna página, verifique la conexión de su computadora
+  <li>Si no puedes cargar ninguna página, verifica la conexión de tu computadora
     a la red.</li>
-  <li>Si su computadora o red están protegidas por un firewall o proxy, asegúrese
+  <li>Si tu computadora o red están protegidas por un firewall o proxy, asegurate
     que &brandShortName; tiene permiso para acceder a la Web.</li>
 </ul>
 ">
@@ -167,7 +167,7 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY securityOverride.linkText "O puede agregar una excepción…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Sáquenme de aquí">
+<!ENTITY securityOverride.getMeOutOfHereButton "Sáquenme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
@@ -176,7 +176,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningText "
-<p>No debería agregar una excepción si está usando una conexión a internet en la que no confía por completo o si no está acostumbrado a ver mensajes de advertencia de este servidor.</p>
+<p>No deberias agregar una excepción si estas usando una conexión a internet en la que no confias por completo o si no estas acostumbrado a ver mensajes de advertencia de este servidor.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
