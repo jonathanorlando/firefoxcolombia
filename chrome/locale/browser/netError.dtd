@@ -1,12 +1,12 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problema cargando la página">
+<!ENTITY loadError.label "Se ha detectado un problema cargando la página!">
 <!ENTITY retry.label "Intenta nuevamente">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "No se puede conectar">
+<!ENTITY connectionFailure.title "No se ha podido conectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
@@ -34,9 +34,9 @@
 ">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Oouch!.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; no se puede cargar esta página por alguna razón.</p>
+<p>&brandShortName; no se ha podido cargar esta página por alguna razón.</p>
 ">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
@@ -55,7 +55,7 @@
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Desmarca &quot;Trabajar sin conexión&quot; en el menú Archivo e intente nuevamente.</li>
+  <li>Desmarca &quot;Trabajar sin conexión&quot; en el menú Archivo e intenta nuevamente.</li>
 </ul>
 ">
 
@@ -95,7 +95,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
+<!ENTITY proxyResolveFailure.title "No se ha podido encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Verifica las opciones de proxy para confirmar que están correctas.</li>
@@ -135,8 +135,8 @@
 <ul>
   <li>Ésto podría ser un problema con la configuración del servidor o podría ser
 alguien tratando de hacerse pasar por el servidor.</li>
-  <li>Si se ha conectado a este servidor exitosamente en el pasado, el error puede
-ser temporal y puede inentarlo nuevamente más tarde.</li>
+  <li>Si te has conectado a este servidor exitosamente en el pasado, el error puede
+ser temporal y puedes intentarlo nuevamente más tarde.</li>
 </ul>
 ">
 
@@ -153,7 +153,7 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 
 <!ENTITY malwareBlocked.title "¡Sitio sospechoso de ataque!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Los sitios de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p>
+<p>Los sitios de ataque tratan de instalar programas que roban información privada, usan tu computadora para atacar otras o dañan su sistema.</p>
 <p>Los dueños de sitios web que creen que su sitio ha sido reportado como un sitio de ataque por error pueden <a href='http://www.stopbadware.org/home/reviewinfo' >pedir una revisión</a>.</p>
 ">
 

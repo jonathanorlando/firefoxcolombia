@@ -116,7 +116,7 @@
 <!ENTITY col.visitcount.label              "Cantidad de visitas">
 <!ENTITY col.keyword.label                 "Palabra clave">
 <!ENTITY col.description.label             "Descripción">
-<!ENTITY col.dateadded.label               "Agregado">
+<!ENTITY col.dateadded.label               "Complementos">
 <!ENTITY col.lastmodified.label            "Última modificación">
 
 <!ENTITY search.label                      "Buscar:">

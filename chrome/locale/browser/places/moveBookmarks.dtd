@@ -1,4 +1,4 @@
-<!ENTITY window.title              "Seleccione carpeta">
+<!ENTITY window.title              "Selecciona carpeta">
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Mover a:">
 <!ENTITY newFolderButton.label     "Nueva carpeta">

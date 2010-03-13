@@ -19,17 +19,17 @@ los sitios presentan un identificación confiable para probar que está
 dirigiéndose al lugar correcto. Sin embargo, la identidad de este sitio no puede verificarse.">
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Qué debería hacer?">
-<!ENTITY certerror.whatShouldIDo.content "Si usualmente se conecta a 
+<!ENTITY certerror.whatShouldIDo.content "Si usualmente te conectas a 
 este sitio sin problemas, este error podría significar que alguien está
 tratando de imitar ese sitio y no debería continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "¡Sáquenme de aquí!">
 
 <!ENTITY certerror.expert.heading "Comprendo los riesgos">
-<!ENTITY certerror.expert.content "Si entiende lo que está pasando, puede
+<!ENTITY certerror.expert.content "Si entiendes lo que está pasando, puedes
 decirle a &brandShortName; que comience a confiar en la identificación de este sitio.
-<b>Aunque confíe en el sitio, este error podría significar que alguien está
-alterando su conexión.</b>">
-<!ENTITY certerror.expert.contentPara2 "No agregue una excepción a menos que
+<b>Aunque confies en el sitio, este error podría significar que alguien está
+alterando tu conexión.</b>">
+<!ENTITY certerror.expert.contentPara2 "No agregues una excepción a menos que
 conozca que hay una buena razón para que este sitio no use una identificación confiable.">
 <!ENTITY certerror.addException.label "Agregar excepción…">
 

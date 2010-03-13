@@ -14,9 +14,9 @@
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Abrir dirección…">
+<!ENTITY openLocationCmd.label "Abrir una dirección…">
 <!ENTITY openLocationCmd.accesskey "d">
-<!ENTITY openFileCmd.label "Abrir archivo…">
+<!ENTITY openFileCmd.label "Abrir una archivo…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configuración de página…">
@@ -114,7 +114,7 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Historial">
-<!ENTITY historyButton.tooltip "Mostrar páginas que se visitaron recientemente">
+<!ENTITY historyButton.tooltip "Mostrar páginas que he visitado recientemente">
 <!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
 
@@ -130,8 +130,8 @@
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "Agregados">
-<!ENTITY addons.tooltip "Mostrar y administrar los agregados instalados">
+<!ENTITY addons.label "Complementos">
+<!ENTITY addons.tooltip "Mostrar y administrar los complementos instalados">
 <!ENTITY addons.accesskey "A">
 
 <!ENTITY errorConsoleCmd.label "Consola de errores">
@@ -271,7 +271,7 @@
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey "f">
-<!ENTITY setDesktopBackgroundCmd.label "Poner como fondo del escritorio…">
+<!ENTITY setDesktopBackgroundCmd.label "Poner como fondo de mi escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar esta página">
 <!ENTITY bookmarkPageCmd2.accesskey   "M">

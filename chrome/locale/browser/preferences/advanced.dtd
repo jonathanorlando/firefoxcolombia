@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Buscar en el texto cuando comiences a escribir">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Alertarme cuando un sitio web intente redireccionar o recargar la página">
+<!ENTITY blockAutoRefresh.label          "Alertarme cuando un sitio web intenta redireccionar o recargar la página">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
 <!ENTITY browsing.label                  "Navegar">

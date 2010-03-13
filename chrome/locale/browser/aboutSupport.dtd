@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Está página contiene información técnica que puede serle útil cuando 
-  trate de resolver un problema. Si está buscando respuestas a preguntas comunes
+  trate de resolver un problema. Si estas buscando respuestas a preguntas comunes
   acerca de &brandShortName;, mire en nuestro <a id='supportLink'>sitio web de soporte</a>.
 ">
 

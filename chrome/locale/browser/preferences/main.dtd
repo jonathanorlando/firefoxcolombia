@@ -19,7 +19,7 @@
 
 <!ENTITY showWhenDownloading.label     "Mostrar la ventana de descargas al descargar un archivo">
 <!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "Cerrarla cuando terminen todas las descargas">
+<!ENTITY closeWhenDone.label "Cerrarla cuando han terminado todas mis descargas">
 <!ENTITY closeWhenDone.accesskey "f">
 <!ENTITY saveTo.label "Guardar archivos a">
 <!ENTITY saveTo.accesskey "v">
@@ -31,8 +31,8 @@
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label            "Complementos">
-<!ENTITY manageAddonsDescWin.label     "Cambiar opciones de sus complementos">
-<!ENTITY manageAddonsDescUnix2.label "Cambiar preferencias de sus complementos">
+<!ENTITY manageAddonsDescWin.label     "Cambiar opciones de mis complementos">
+<!ENTITY manageAddonsDescUnix2.label "Cambiar preferencias de mis complementos">
 <!ENTITY manageAddons.label         "Administrar complementos...">
 <!ENTITY manageAddons.accesskey     "g">
 
