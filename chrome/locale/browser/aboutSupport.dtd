@@ -4,7 +4,7 @@
 <!ENTITY aboutSupport.pageSubtitle "
   Está página contiene información técnica que puede serle útil cuando 
   trate de resolver un problema. Si estas buscando respuestas a preguntas comunes
-  acerca de &brandShortName;, mire en nuestro <a id='supportLink'>sitio web de soporte</a>.
+  acerca de &brandShortName;, mira en nuestro <a id='supportLink'>sitio web de soporte</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">

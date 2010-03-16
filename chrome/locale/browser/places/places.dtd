@@ -151,5 +151,5 @@
 <!ENTITY detailsPane.less.label         "Menos">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label         "Vista previa">
-<!ENTITY detailsPane.selectAnItemText.description     "Seleccione un ítem para mostrar y editar sus propiedades">
+<!ENTITY detailsPane.selectAnItemText.description     "Selecciona un ítem para mostrar y editar sus propiedades">
 

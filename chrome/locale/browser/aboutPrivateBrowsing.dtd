@@ -18,5 +18,5 @@
 <!ENTITY privatebrowsingpage.howToStop             "Para abandonar la navegación privada, selecciona &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; o cierre &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Para comenzar la navegación privada, también puedes seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Aunque esta computadora no tenga un registro de su historial de navegación, tu proveedor de internet aún puede rastrear las páginas que visites.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Aunque esta computadora no tenga un registro de tú historial de navegación, tú proveedor de internet aún puede rastrear las páginas que visites.">
 <!ENTITY privatebrowsingpage.learnMore                 "Conocer más">

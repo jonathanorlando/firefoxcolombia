@@ -1,5 +1,5 @@
 
-<!ENTITY migrationWizard.title "Este es el Asistente de importación">
+<!ENTITY migrationWizard.title "Este es mi Asistente de importación">
 
 <!ENTITY importFrom.label "Importar opciones, marcadores, historial, contraseñas y otros datos de:">
 <!ENTITY importFromUnix.label "Importar preferencias, marcadores, historial, contraseñas y otros datos de:">
@@ -43,7 +43,7 @@
 <!ENTITY migrating.title "Importando...">
 <!ENTITY migrating.label "Los siguientes ítems están siendo importados...">
 
-<!ENTITY selectProfile.title "Seleccione perfil">
+<!ENTITY selectProfile.title "Selecciona perfil">
 <!ENTITY selectProfile.label "Los siguientes perfiles están disponibles para ser importados:">
 
 <!ENTITY done.title "Importación completa">
